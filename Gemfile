@@ -54,6 +54,8 @@ gem 'semantic-ui-sass'
 gem 'jquery-rails'
 gem "bcrypt", "~> 3.1.7"
 gem 'hirb'
+gem 'byebug'
+gem 'popper'
 #
 
 
